@@ -6,3 +6,5 @@ includes projects I have done in my java learning process.
 02- short datatype example
 
 03- exam average example
+
+04- min-max value example
