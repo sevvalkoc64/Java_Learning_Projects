@@ -8,3 +8,5 @@ includes projects I have done in my java learning process.
 03- exam average example
 
 04- min-max value example
+
+05- type casting example
