@@ -10,3 +10,5 @@ includes projects I have done in my java learning process.
 04- min-max value example
 
 05- type casting example
+
+06- pass exam example
