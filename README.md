@@ -12,3 +12,5 @@ includes projects I have done in my java learning process.
 05- type casting example
 
 06- pass exam example
+
+07- even number example
