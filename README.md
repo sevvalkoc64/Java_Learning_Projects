@@ -14,3 +14,5 @@ includes projects I have done in my java learning process.
 06- pass exam example
 
 07- even number example
+
+08- while loop example
