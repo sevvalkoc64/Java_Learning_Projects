@@ -16,3 +16,7 @@ includes projects I have done in my java learning process.
 07- even number example
 
 08- while loop example
+
+09- multiplication table example
+
+10- arrays example
