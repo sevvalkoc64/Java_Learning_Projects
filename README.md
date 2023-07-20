@@ -20,3 +20,7 @@ includes projects I have done in my java learning process.
 09- multiplication table example
 
 10- arrays example
+
+11- even odd method example
+
+12- student class example
