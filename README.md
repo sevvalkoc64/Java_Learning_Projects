@@ -24,3 +24,5 @@ includes projects I have done in my java learning process.
 11- even odd method example
 
 12- student class example
+
+13- foreach loop example
