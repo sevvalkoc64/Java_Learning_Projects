@@ -26,3 +26,5 @@ includes projects I have done in my java learning process.
 12- student class example
 
 13- foreach loop example
+
+14- harmonic series example
