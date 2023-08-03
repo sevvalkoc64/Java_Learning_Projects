@@ -28,3 +28,5 @@ includes projects I have done in my java learning process.
 13- foreach loop example
 
 14- harmonic series example
+
+15- armstrong number example
