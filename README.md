@@ -30,3 +30,5 @@ includes projects I have done in my java learning process.
 14- harmonic series example
 
 15- armstrong number example
+
+16- message length example
