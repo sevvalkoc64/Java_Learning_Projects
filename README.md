@@ -32,3 +32,5 @@ includes projects I have done in my java learning process.
 15- armstrong number example
 
 16- message length example
+
+17- elements average example
