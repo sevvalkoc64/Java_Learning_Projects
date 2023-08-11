@@ -34,3 +34,5 @@ includes projects I have done in my java learning process.
 16- message length example
 
 17- elements average example
+
+18- find number example
